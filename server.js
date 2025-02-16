@@ -49,7 +49,7 @@ wss.on('connection', (ws, req) => {
 
 // Запуск сервера на порту 3000
 server.listen(3000, () => {
-    console.log('Server is running on http://localhost:3000');
+    console.log('Server is running on https://litovic3253.github.io/IP/public/index.html');
 });
 
 // Функция для корректной остановки сервера
